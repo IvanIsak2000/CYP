@@ -1,7 +1,7 @@
-<img src = "https://github.com/IvanIsak2000/CYP/blob/master/logo.png"/>
-<br>
 
 <div id = "header" align="center">
+<img src = "https://github.com/IvanIsak2000/CYP/blob/master/logo.png"/>
+<br>
 <img src = "https://img.shields.io/badge/python 3.7+-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/><img src ="https://img.shields.io/badge/dear%20pygui-%23F8.svg?style=for-the-badge"/>
 </div>
 
@@ -40,4 +40,11 @@ I want the password to consist only of numbers and letters - I press the first a
 >The result will not make you wait long! Oh miracle, the program not only worked, but also generated a password!
 >
 >![image](https://user-images.githubusercontent.com/79650307/215551096-0ca3c5bb-4301-4a18-8fd3-ae7af3330638.png)
->
+
+ERROR HANDLING
+--
+Did you want to get an error? Let's get started:
+1. You didn't press any buttons? Don't worry, the program won't show you anything!
+2. Have you entered a number less than zero? That's not how the program works!
+3. Try your luck, cause an error!
+
