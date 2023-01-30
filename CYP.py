@@ -1,18 +1,8 @@
 import os
 import sys
+from genp import password_generation
+import dearpygui.dearpygui as dpg
 
-try:
-
-    from genp import password_generation
-    import dearpygui.dearpygui as dpg
-
-except:
-
-    os.system('pip3 install genp==0.2')
-    from genp import password_generation
-
-    os.system('pip3 install dearpygui==1.8.0')
-    import dearpygui.dearpygui as dpg
 
 
 def create_password():
